@@ -3,6 +3,7 @@
 **#Laravel Commands**
 - Make Controller: php artisan make:controller NameController
   exampe: php artisan make:controller PagesController
+- Run Server: php artisan serve
 
 **#Laravel using tailwindcss**
 - Make new project: laravel new "namefolder/projectname"
