@@ -6,7 +6,7 @@
   exampe: php artisan make:controller PagesController
 - Make Controller + default common Method: php artisan make:controller NameController --resource
 - Make Model: php artisan make:model Model
-  example: php artisan make:model Page
+  example: php artisan make:model Post
 
 **#Laravel using tailwindcss**
 - Make new project: laravel new "namefolder/projectname"
@@ -21,4 +21,12 @@
 - npm run watch note-> makesure node version >= 12.14
 
 source: https://www.youtube.com/watch?v=HKJDLXsTr8A
-  
+ 
+**#Setting database**
+- Make sure the DB has been created on the rdbms like mySql, mariadb etc
+- Create Model: php artisan make:model Model
+  example: php artisan make:model Post
+- Create migration: php artisan make:migration migrations
+  example: php artisan make:migration posts
+- Open the migration file that was we made and start design the table
+- Then migrate from migration file to the database: php artisan migrate
