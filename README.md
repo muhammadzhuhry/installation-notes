@@ -1,9 +1,12 @@
 # laravel-notes
 
 **#Laravel Commands**
+- Run Server: php artisan serve
 - Make Controller: php artisan make:controller NameController
   exampe: php artisan make:controller PagesController
-- Run Server: php artisan serve
+- Make Controller + default common Method: php artisan make:controller NameController --resource
+- Make Model: php artisan make:model Model
+  example: php artisan make:model Page
 
 **#Laravel using tailwindcss**
 - Make new project: laravel new "namefolder/projectname"
