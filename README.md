@@ -2,3 +2,4 @@
 
 - [x] laravel
 - [ ] Nextjs
+- [x] TailwindCSS
