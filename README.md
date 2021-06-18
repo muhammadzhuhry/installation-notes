@@ -1,3 +1,3 @@
-# nextjs-notes
+# :notebook: Installation Notes & Commands
 
-**#Nextjs Installtion Guide**
+- [x] laravel
