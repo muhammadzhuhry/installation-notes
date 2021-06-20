@@ -1,6 +1,6 @@
-# nextjs-notes
+# tailwindcss-notes
 
-**#Nextjs Installtion Guide**
+**#TailwindCSS Installtion Guide**
 - npm install tailwindcss
 - npx tailwindcss init
 - add this script below to src/styles.css:
