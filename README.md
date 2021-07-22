@@ -13,3 +13,6 @@
     "build:css": "npx tailwindcss-cli build -i src/styles.css -o public/styles.css"
 - run script build:css
 - start code!
+
+note:
+npx tailwindcss init --full -> scaffolding the entire default configuration
